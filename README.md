@@ -16,9 +16,9 @@ Untuk MacOs dan Linux (Bash atau Zsh Shell)
 ```bash
 $ source .venv/bin/activate
 ```
-Untuk Windows Command Shell
+Untuk Windows Command Shell (cmd)
 ```bash
-$ ./venv/Scripts/activate
+$ . .venv/Scripts/activate
 ```
 
 ### 3. Upgrade pip
